@@ -4,6 +4,13 @@ language: php
 php:
   - 5.6
 
+addons:
+  code_climate:
+    repo_token: 648b8780da6220919363c0367fbbbe64a61d3ecd5694ebdb4948f80c9e38f985
+
 before_script: composer install
 
 script: vendor/bin/phpunit --configuration Tests/phpunit.xml
+
+after_success:
+  - vendor/bin/test-reporter
