@@ -6,7 +6,7 @@ use DesignPatterns\Creational\AbstractFactory\Contracts\NameBagInterface;
 
 class NameBag implements NameBagInterface
 {
-	private $bag = [];
+	private $bag = [ ];
 
 	/**
 	 * {@inheritdoc}
