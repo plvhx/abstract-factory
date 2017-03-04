@@ -3,6 +3,7 @@
 [![Code Climate](https://codeclimate.com/github/kepolu/abstract-factory/badges/gpa.svg)](https://codeclimate.com/github/kepolu/abstract-factory)
 [![Test Coverage](https://codeclimate.com/github/kepolu/abstract-factory/badges/coverage.svg)](https://codeclimate.com/github/kepolu/abstract-factory/coverage)
 [![Issue Count](https://codeclimate.com/github/kepolu/abstract-factory/badges/issue_count.svg)](https://codeclimate.com/github/kepolu/abstract-factory)
+[![Code Coverage](https://scrutinizer-ci.com/g/kepolu/abstract-factory/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/kepolu/abstract-factory/?branch=master)
 
 # Abstract Factory Pattern
 
